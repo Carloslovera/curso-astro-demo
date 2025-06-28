@@ -1,0 +1,22 @@
+[
+  {
+    "nombre2": "tea", 
+    "precio2": "$80", 
+    "imagen2": "/image/bebida1.jpg"
+  },
+    {
+    "nombre2": "cafe", 
+    "precio2": "$50", 
+    "imagen2": "/image/bebida2.jpg"
+  },
+      {
+    "nombre2": "jugos", 
+    "precio2": "$100", 
+    "imagen2": "/image/bebida4.webp"
+  },
+      {
+    "nombre2": "empanada", 
+    "precio2": "$300", 
+    "imagen2": "/image/fritos1.jpg"
+  }
+]

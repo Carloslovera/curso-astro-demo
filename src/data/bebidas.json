@@ -1,0 +1,17 @@
+[
+  { 
+    "nombre3": "Tea", 
+    "precio3": "$26", 
+    "imagen3": "/image/bebida1.jpg" 
+  },
+  { 
+    "nombre3": "Cafe", 
+    "precio3": "$32", 
+    "imagen3": "/image/bebida2.jpg" 
+  },
+  {
+    "nombre3": "Jugos", 
+    "precio3": "$12", 
+    "imagen3": "/image/bebida4.webp"
+  }
+]

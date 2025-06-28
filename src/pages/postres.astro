@@ -1,0 +1,16 @@
+---
+import Layout from '../layouts/Layout.astro';
+import postres from '../data/postres.json';
+---
+<Layout>
+ <h1 class="text-2xl font-bold mb-4">Postres del Día</h1>
+  <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+    {postres.map(item => (
+      <div class="bg-white p-4 rounded shadow">
+        <img src={item.imagen2} alt={item.nombre2} class="w-full h-48 object-cover mb-2" />
+        <h3 class="text-xl font-semibold">{item.nombre2}</h3>
+        <p class="text-green-700 font-bold">{item.precio2}</p>
+      </div>
+    ))}
+  </div>
+</Layout>

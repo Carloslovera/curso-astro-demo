@@ -1,0 +1,17 @@
+[
+  { 
+    "nombre": "Milanesa con papas", 
+    "precio": "$2600", 
+    "imagen": "/image/comida1.avif" 
+  },
+  { 
+    "nombre": "Pizza napolitana", 
+    "precio": "$3200", 
+    "imagen": "/image/comida2.avif" 
+  },
+  {
+    "nombre": "torta", 
+    "precio": "$1200", 
+    "imagen": "/image/comida3.jpg"
+  }
+]
