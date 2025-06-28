@@ -2,8 +2,9 @@
 import Layout from '../layouts/Layout.astro';
 import bebidas from '../data/bebidas.json';
 ---
-<Layout>
-  <h1 class="text-2xl font-bold mb-4">Bebidas del Día</h1>
+<Layout title=" bebidas">
+      <button onclick="location.href='/'">Volver al menu</button>
+   <h1 class="text-2xl font-bold mb-4">Bedidas del Día</h1>
   <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
     {bebidas.map(item => (
       <div class="bg-white p-4 rounded shadow">

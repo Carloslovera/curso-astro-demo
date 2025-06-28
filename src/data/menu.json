@@ -10,8 +10,14 @@
     "imagen": "/image/comida2.avif" 
   },
   {
-    "nombre": "torta", 
-    "precio": "$1200", 
-    "imagen": "/image/comida3.jpg"
+    "nombre": "Empanada frita", 
+    "precio": "$1200",
+    "imagen": "/image/fritos1.jpg" 
+    
+  },
+  {
+    "nombre": "Churrasco", 
+    "precio": "$70", 
+    "imagen": "/image/comida4.jpg"
   }
 ]

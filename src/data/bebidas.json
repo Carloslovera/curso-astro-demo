@@ -1,17 +1,22 @@
 [
-  { 
-    "nombre3": "Tea", 
-    "precio3": "$26", 
-    "imagen3": "/image/bebida1.jpg" 
-  },
-  { 
-    "nombre3": "Cafe", 
-    "precio3": "$32", 
-    "imagen3": "/image/bebida2.jpg" 
-  },
-  {
-    "nombre3": "Jugos", 
-    "precio3": "$12", 
-    "imagen3": "/image/bebida4.webp"
+    {
+    "nombre3": "te ", 
+    "precio3": "$200", 
+    "imagen3": "public/image/bebida1.jpg" 
+    },
+    {
+    "nombre3": "cafe ", 
+    "precio3": "$150", 
+    "imagen3": "public/image/bebida2.jpg" 
+    },
+    {
+    "nombre3": "jugos Naturales ", 
+    "precio3": "$150", 
+    "imagen3": "public/image/bebida4.webp" 
+    },
+    {
+    "nombre3": "cake", 
+    "precio3": "$70", 
+    "imagen3": "/image/bebidas5.webp"
   }
 ]

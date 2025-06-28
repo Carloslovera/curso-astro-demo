@@ -1,22 +1,28 @@
 [
   {
-    "nombre2": "tea", 
-    "precio2": "$80", 
-    "imagen2": "/image/bebida1.jpg"
+    "nombre1": "Cake de Zanahoria", 
+    "precio1": "$70", 
+    "imagen1": "/image/postre1.jpg"
+  },
+  {
+    "nombre1": "Quesillo de coco", 
+    "precio1": "$70", 
+    "imagen1": "/image/postre2.jpg"
+  },
+  {
+    "nombre1": "Flan", 
+    "precio1": "$70", 
+    "imagen1": "/image/postre3.jpg"
+  },
+  {
+    "nombre1": "Profiteroles", 
+    "precio1": "$70", 
+    "imagen1": "/image/postre4.jpg"
   },
     {
-    "nombre2": "cafe", 
-    "precio2": "$50", 
-    "imagen2": "/image/bebida2.jpg"
-  },
-      {
-    "nombre2": "jugos", 
-    "precio2": "$100", 
-    "imagen2": "/image/bebida4.webp"
-  },
-      {
-    "nombre2": "empanada", 
-    "precio2": "$300", 
-    "imagen2": "/image/fritos1.jpg"
+    "nombre1": "Brownie c/ Helado", 
+    "precio1": "$70", 
+    "imagen1": "/image/postre5.jpg"
   }
+  
 ]
