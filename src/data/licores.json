@@ -1,0 +1,28 @@
+[
+  {
+    "nombre6": "whisky", 
+    "precio6": "$70", 
+    "imagen1": "/image/licor1.webp"
+  },
+  {
+    "nombre6": "Martinez", 
+    "precio6": "$80", 
+    "imagen1": "/image/licor2.jpg"
+  },
+  {
+    "nombre6": "Flan", 
+    "precio6": "$70", 
+    "imagen1": "/image/postre3.jpg"
+  },
+  {
+    "nombre6": "Profiteroles", 
+    "precio6": "$70", 
+    "imagen1": "/image/postre4.jpg"
+  },
+    {
+    "nombre6": "Brownie c/ Helado", 
+    "precio6": "$70", 
+    "imagen1": "/image/postre5.jpg"
+  }
+  
+]
